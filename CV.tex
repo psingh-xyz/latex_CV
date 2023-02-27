@@ -1,0 +1,70 @@
+\documentclass[11pt, a4paper]{awesome-cv}
+
+
+\colorlet{awesome}{awesome-red}
+\setbool{acvSectionColorHighlight}{true}
+
+%% Available options: circle|rectangle,edge/noedge,left/right
+%\photo[noedge]{./graphics/profile.png}
+\name{Priyanka}{Singh}
+\position{masters candidate in data science}
+\address{Saratovsky Street, Moscow--109125}
+
+\mobile{~(+7) 963-767-9900~}
+\email{psingh.xyz@proton.me}
+%\homepage{www.psingh.xyz}
+\github{psingh-xyz}
+\linkedin{psingh-xyz}
+%\skype{puneet.tomar01} 
+%\gitlab{tomarp}
+% \stackoverflow{SO-id}{SO-name}
+%\twitter{Puneet\_Tomar}
+%\orcid{0000-0002-5168-5471}
+%\mastodon{}
+%\kaggle{tomarp}
+% \googlescholar{googlescholar-id}{name-to-display}
+%\googlescholar{FPEeWQoAAAAJ&hl}{}
+%\extrainfo{NeutronAI}
+
+%\quote{``Machine Learning, Trainee, Traveller''}
+
+%------------------------------------------------------------------
+\begin{document}
+ \makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+	%{\today}			% today's date	
+	{Feb. 2023}		% manual date
+	{Priyanka Singh Curriculum Vitae}		% Author name CV
+	{\thepage}		% page number
+
+%% CV content
+\input{./summary.tex}
+\input{./research}
+\input{./work.tex}
+\input{./skills.tex}
+%\input{./publications.tex}
+%\input{./honors.tex}
+\input{./certificates.tex}
+%\input{./presentation.tex}
+%\input{./writing.tex}
+%\input{./committees.tex}
+\input{./education.tex}
+
+\vspace{16pt}
+
+\noindent\begin{tikzpicture}
+\pgfmathsetmacro{\a}{\textwidth/2} 
+\path (0,0); % move pen to (0,0) left most of the text
+\path (\a pt,0) node[scale=5,cyan]{$\cdots$};
+\end{tikzpicture}
+
+
+%{\begin{center}$ {\ast}\,{\ast}\,{\ast} $\end{center}}
+
+%\noindent\makebox[\linewidth]{\rule{\paperwidth}{1.5pt}}
+
+
+\end{document}
