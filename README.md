@@ -3,14 +3,14 @@
     <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
   </a>
   <br />
-  Tomar CV
+  PSINGH CV
 </h1>
 <p align="center">
-  Puneet Tomar CV Latex version
+  Priyanka Singh CV Latex version
 </p>
 
 <div align="center">
-  <a href="https://github.com/TomarP/latex-CV/blob/master/CV.pdf">
+  <a href="https://github.com/psingh-xyz/latex_CV/blob/master/CV.pdf">
     <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
 </div>
@@ -39,7 +39,7 @@ You can see my updated [CV PDF](https://github.com/TomarP/latex-CV/blob/master/C
 You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
 
 
-If you have any questions, feel free to follow me on [twitter](https://twitter.com/puneet_tomar) or [linkedin](https://www.linkedin.com/in/tomarp/) and ask right away.
+If you have any questions, feel free to follow me on [twitter](https://twitter.com/psingh_xyz) or [linkedin](https://www.linkedin.com/in/psingh-xyz/) and ask right away.
 
 Good luck!
 
