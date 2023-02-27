@@ -19,7 +19,7 @@
 
 #### Curriculum Vitae
 
-You can see my updated [CV PDF](https://github.com/TomarP/latex-CV/blob/master/CV.pdf) here. 
+You can see my updated [CV PDF](https://github.com/psingh-xyz/latex_CV/blob/master/CV.pdf) here. 
 
 ## Credit
 
